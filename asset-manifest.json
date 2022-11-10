@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewIgnat/static/css/main.269c1751.css",
+    "main.js": "/NewIgnat/static/js/main.57bd4316.js",
+    "static/js/787.66cb4309.chunk.js": "/NewIgnat/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/NewIgnat/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/NewIgnat/index.html",
+    "main.269c1751.css.map": "/NewIgnat/static/css/main.269c1751.css.map",
+    "main.57bd4316.js.map": "/NewIgnat/static/js/main.57bd4316.js.map",
+    "787.66cb4309.chunk.js.map": "/NewIgnat/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.269c1751.css",
+    "static/js/main.57bd4316.js"
+  ]
+}
